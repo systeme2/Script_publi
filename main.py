@@ -4,7 +4,7 @@ from instagram_private_api import Client
 from py_pinterest import PinterestAPI
 
 # Lecture du fichier Excel
-df = pd.read_excel("chemin_vers_le_fichier_excel.xlsx")
+df = pd.read_excel("Classeur1.xlsx")
 
 # Configuration de l'API Instagram
 username = "votre_nom_d_utilisateur"
